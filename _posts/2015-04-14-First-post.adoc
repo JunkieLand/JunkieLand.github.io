@@ -1,4 +1,4 @@
-# hello
+# First post
 
 
-I 'm running in the rain
+This is this first time I try HubPress. For now, it looks pretty awesome :)
